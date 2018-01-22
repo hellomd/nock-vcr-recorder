@@ -1,6 +1,6 @@
 {
-  "name": "nock-vcr-recorder",
-  "version": "0.1.5",
+  "name": "@hellomd/nock-vcr-recorder",
+  "version": "0.2.0",
   "description": "A test framework agnostic vcr implementation that uses nock.",
   "main": "lib/vcr.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/poetic/nock-vcr-recorder.git"
+    "url": "https://github.com/hellomd/nock-vcr-recorder.git"
   },
   "keywords": [
     "mocha",
@@ -20,9 +20,9 @@
   "author": "Jake Craige <jake@poeticsystems.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/poetic/nock-vcr-recorder/issues"
+    "url": "https://github.com/hellomd/nock-vcr-recorder/issues"
   },
-  "homepage": "https://github.com/poetic/nock-vcr-recorder",
+  "homepage": "https://github.com/hellomd/nock-vcr-recorder",
   "dependencies": {
     "lodash": "^4.13.1",
     "mkdirp": "^0.5.0",
